@@ -2,17 +2,13 @@
 
 <h2>What will we done to this project? </h2>
 
-<b>Vrinda store annual sales report:</b>
+- Sales and Orders Comparison: Create a single chart to compare sales and orders.
+- Monthly Analysis: Identify the month with the highest sales and orders.
+- Gender Analysis: Use a pie chart to compare sales between men and women.
+- Order Statuses in 2022: Analyze the different order statuses for the year.
+- Top Contributor: Determine which company contributed the maximum sales.
+#### Key Tasks:
 
- 1. Compare the sales and orders using single chart.
- 2. Which month got highest sales and order.
- 3. Who purchase more men or women describe in pie chart.
- 4. What are different order status in 2022?
- 5. Which company contributing maximum sales?
-
-
-<b>Working:</b>
-
- 1. Data cleaning.
- 2. Data visualizing.
- 3. Data analyzing.
+- Data Cleaning: Ensured accuracy and consistency of data.
+- Data Visualization: Created clear, insightful charts and graphs for analysis.
+- Data Analysis: Analyzed trends and patterns to provide actionable insights.
