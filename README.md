@@ -14,4 +14,4 @@
 - Data Analysis: Analyzed trends and patterns to provide actionable insights.
 
 ---
-![dashboard](vrinda-shop)
+![dashboard](vrinda-shop.png)
